@@ -1,0 +1,27 @@
+[
+    {
+        "name": "fuji",
+        "description": "Lorem ipsem .....",
+        "web_link": "",
+        "github_link": "",
+        "image_url": "/images/fuji.jpg"
+    },
+
+    {
+        "name": "beach",
+        "description": "Lorem ipsem .....",
+        "web_link": "",
+        "github_link": "",
+        "image_url": "/images/beach.jpg"
+    },
+
+    {
+        "name": "lotus",
+        "description": "Lorem ipsem .....",
+        "web_link": "",
+        "github_link": "",
+        "image_url": "/images/lotus.jpg"
+    }
+
+
+]
